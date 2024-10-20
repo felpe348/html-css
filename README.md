@@ -3,4 +3,4 @@
 
 aprendendo
 
-<a href="https://felpe348.github.io/html-css/exercicos/exe001/index.html"> Execultar o exercicio 001
+<a href="https://felpe348.github.io/html-css/exercicios/exe001/index.html"> Execultar o exercicio 001
